@@ -8,9 +8,6 @@
 
 #import "Student.h"
 
-@implementation StudentBuilder
-@end
-
 @implementation Student
 
 @end

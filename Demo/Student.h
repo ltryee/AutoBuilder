@@ -9,9 +9,6 @@
 #import <Foundation/Foundation.h>
 #import "Person.h"
 
-@interface StudentBuilder : ABGeneralObjectBuilder
-@end
-
 @interface Student : Person
 @property (nonatomic, strong) NSString *school;
 @end

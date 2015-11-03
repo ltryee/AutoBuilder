@@ -9,14 +9,10 @@
 #import <Foundation/Foundation.h>
 #import "ABGeneralObjectBuilder.h"
 
-@interface PersonBuilder : ABGeneralObjectBuilder
-@end
-
 @interface Person : NSObject
 
 @property (nonatomic, strong) NSString *name;
 @property (nonatomic, assign) NSInteger age;
-
 
 @end
 

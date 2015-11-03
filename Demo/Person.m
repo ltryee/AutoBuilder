@@ -11,7 +11,3 @@
 @implementation Person
 
 @end
-
-@implementation PersonBuilder
-
-@end
